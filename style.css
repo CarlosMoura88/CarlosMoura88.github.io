@@ -1,0 +1,23 @@
+body{
+    background-color: #c9f0ff;
+    color: #8e00a2;
+}
+h1 {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+.descricao{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.firstskill{
+    font-size: 30px;
+}
+
+.secondskill{
+    font-size: 25px;
+}
+
+.thirdskill{
+    font-size: 20px;
+}
